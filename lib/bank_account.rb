@@ -12,6 +12,6 @@ class BankAccount
   end
   
   def displace_balance
-    puts "Your balance is $#{self.balance}."
+    puts "Your balance is $#{balance}."
   end
 end
